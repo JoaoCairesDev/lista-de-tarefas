@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lista-de-tarefas/static/css/main.c16e9ec3.css",
+    "main.js": "/lista-de-tarefas/static/js/main.cc7c7d08.js",
+    "index.html": "/lista-de-tarefas/index.html",
+    "static/media/trashIcon.svg": "/lista-de-tarefas/static/media/trashIcon.b4053b15b5b292ae0e661313046fe596.svg",
+    "main.c16e9ec3.css.map": "/lista-de-tarefas/static/css/main.c16e9ec3.css.map",
+    "main.cc7c7d08.js.map": "/lista-de-tarefas/static/js/main.cc7c7d08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c16e9ec3.css",
+    "static/js/main.cc7c7d08.js"
+  ]
+}
